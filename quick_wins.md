@@ -21,6 +21,7 @@
 ### Tools and Tech
 1. Is a monitoring dashboard easily accessible? If not, create something very simple and iterate.
 2. Make all source code available to all developers in the company, unless there is something highly proprietary.
+3. Incident.io (or similar, but this is great) is a really great tool to lower stress of oncall people.
 
 ### DevSecOps
 1. Automate how code moves between environments, with secrets pulled from a central secret management service (segregated as appropriate).
