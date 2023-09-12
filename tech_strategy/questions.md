@@ -22,7 +22,7 @@ Some of these questions will have different answers for different applications o
 ## Application Technology Stack
 1. Which languages are recommended?
 2. Which languages are allowed?
-3. "Full stack cloud" or cloud agnostic approach to application building?
+3. ["Full stack cloud" or cloud agnostic approach to application building?](full_stack_vs_cloud_agnostic.md)
 4. What degree of granularity for microservices (if at all)?
 5. Functions as a service ("serverless") or Docker based?
 6. Are low/no-code interfaces feasible?
