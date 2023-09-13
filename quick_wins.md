@@ -4,6 +4,7 @@
 1. Get people comfortable with real-time chat application. That involves be present yourself.
 2. If cross-functional channels don't exist for your products, create them.
 3. Create a less formal chat channel for your department to engage with one another.
+4. Document important architecture decisions ("ADRs"), and get into the habit of discussing them amongst engineers.
 
 ### Product Demos
 1. Ensure product demos are being regularly held, with participation from all stakeholders.
@@ -22,6 +23,7 @@
 1. Is a monitoring dashboard easily accessible? If not, create something very simple and iterate.
 2. Make all source code available to all developers in the company, unless there is something highly proprietary.
 3. Incident.io (or similar, but this is great) is a really great tool to lower stress of oncall people.
+4. Over time, define clear and actionable guidelines and standards how services in your company shall be written, tested, deployed to prod, monitored, etc. Provide service templates or shared libraries where useful.
 
 ### DevSecOps
 1. Automate how code moves between environments, with secrets pulled from a central secret management service (segregated as appropriate).
@@ -30,6 +32,7 @@
 ### Team
 1. Have biweekly (worst case monthly) 1-1s with all one downs.
 2. Have monthly skip-level meetings with your two downs. You must drive this conversation, not just make yourself available.
+3. Have a regular (weekly, or biweekly) tech leadership meeting with the top 4-8 tech leaders in the company. Use a "living" agenda document to collect topics throughout the week.
 
 ### Regulation
 1. Read the MAS Technology Risk Management Guidelines (or equivalent in your jurisdiction). People will quote this all the time, but have rarely read it.
