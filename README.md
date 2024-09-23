@@ -9,3 +9,6 @@ By https://f-intech.com
 [Modern Stack Recommendations](modern_stack.md)
 
 [Tech Strategy Questions](tech_strategy/questions.md)
+
+## Hiring
+* [Head of Engineering](hiring/head_of_engineering.md)
