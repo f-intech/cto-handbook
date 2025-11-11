@@ -1,6 +1,6 @@
 # FinTech CTO Handbook
 
-By https://f-intech.com
+By [F'in Tech](https://f-intech.com)
 
 [Content Links](content_links.md)
 
@@ -12,3 +12,7 @@ By https://f-intech.com
 
 ## Hiring
 * [Head of Engineering](hiring/head_of_engineering.md)
+
+---
+
+<sub><sup>Access the handbook at: <https://f-intech.github.io/cto-handbook/></sup></sub>
