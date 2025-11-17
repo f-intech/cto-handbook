@@ -1,0 +1,29 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor folders
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Build / output folders
+_site/
+_build/
+dist/
+public/
+*.html
+*.pdf
+
+# Python or Node build systems (if using MkDocs or similar)
+__pycache__/
+*.pyc
+node_modules/
+.env
+venv/
+
+# Temporary / cache files
+*.log
+.cache/
