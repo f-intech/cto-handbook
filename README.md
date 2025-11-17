@@ -10,6 +10,8 @@ By [F'in Tech](https://f-intech.com)
 
 [Tech Strategy Questions](tech_strategy/questions.md)
 
+[Reading List](reading_list.md)
+
 ## Hiring
 * [Head of Engineering](hiring/head_of_engineering.md)
 
