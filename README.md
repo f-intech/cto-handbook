@@ -12,6 +12,8 @@ By [F'in Tech](https://f-intech.com)
 
 [Reading List](reading_list.md)
 
+[AI SDLC](ai_sdlc/index.md)
+
 ## Hiring
 * [Head of Engineering](hiring/head_of_engineering.md)
 
