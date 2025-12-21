@@ -13,3 +13,6 @@
 ### People & Engineering Management
 1. [Peopleware](https://en.wikipedia.org/wiki/Peopleware:_Productive_Projects_and_Teams) - many modern articles and books reveal insights that were described in Peopleware long ago. Save yourself time and go to the source.
 2. [An Elegant Puzzle](https://lethain.com/elegant-puzzle/) - Will Larson is a modern engineering manager who writes beautifully, and always gives practical advice.
+
+### Collections
+1. [Essays on programming I think about a lot](https://www.benkuhn.net/progessays/) - great collection of gold articles
