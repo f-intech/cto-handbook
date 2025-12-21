@@ -17,6 +17,7 @@
 ### Testing
 * [CodeRabbit](https://www.coderabbit.ai/) - positive reviews from the community
 * [Stagehand](https://www.stagehand.dev/) - The AI Browser Automation Framework
+* [Momentic])(https://momentic.ai/) - we need more real feedback from people
 
 ### Documentation & Architecture
 * jvnldv
