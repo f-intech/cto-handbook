@@ -18,6 +18,7 @@
 * [CodeRabbit](https://www.coderabbit.ai/) - positive reviews from the community
 * [Stagehand](https://www.stagehand.dev/) - The AI Browser Automation Framework
 * [Momentic](https://momentic.ai/) - we need more real feedback from people
+* [Shortest](https://github.com/antiwork/shortest) - QA via natural language. Doesn't seem to have been updated for a while.
 
 ### Documentation & Architecture
 * jvnldv
